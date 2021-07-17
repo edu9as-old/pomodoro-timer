@@ -31,9 +31,7 @@ There are some extra options:
 
 ## Usage
 
-I have prepared a demo for you on Google Colab:
-
-*https://colab.research.google.com/github/edu9as/tools/blob/main/pomodoro/pomodoroDemonstration.ipynb*
+I have prepared a demo for you on [Google Colab](https://colab.research.google.com/github/edu9as/pomodoro-timer/blob/main/pomodoroDemonstration.ipynb)
 
 ## Installation
 ### Linux
